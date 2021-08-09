@@ -27,7 +27,7 @@ developer survey. My analysis is based on these questions:
 **survey_results_public.csv** - data used for analysis
 
 ## RESULTS
-The entire [blog](https://abhignya.medium.com/indian-developers-in-2020-8b9ad0d7bde9) is here for the results. 
+The entire [blog](https://abhignya.medium.com/indian-developers-in-2020-8b9ad0d7bde9). 
 
 1. JavaScript and HTML/CSS was the most used by Indian Developers in 2020. Python is the programming language the developers wish to work next year.
 
