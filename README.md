@@ -25,6 +25,7 @@ developer survey. My analysis is based on these questions:
 ## File Description
 **StackOverflow2020.ipynb** - python notebook
 **survey_results_public.csv** - data used for analysis
+The notebook for the analysis is [here](https://github.com/Abhignya27/write-a-data-science-blog-post-/blob/main/StackOverflow2020.ipynb).
 
 ## RESULTS
 The entire [blog](https://abhignya.medium.com/indian-developers-in-2020-8b9ad0d7bde9). 
