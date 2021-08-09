@@ -9,6 +9,9 @@ pandemic by WHO.
 Data: [schema](https://insights.stackoverflow.com/survey)
 
 ## MOTIVATION
+I was interested to find what is the opinion and experience of Indian developers using stack overflow 2020
+developer survey. My analysis is based on these questions:
+
 1. What are the Top 10 Programming Languages Indian Developers have used and they want to work next year?
 2. What is the salary of the Indian developers with respective to the programming language they work?
 3. What is the Salary of the Indian Developers with respective to their Education level and their major?
