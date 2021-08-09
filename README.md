@@ -27,6 +27,8 @@ developer survey. My analysis is based on these questions:
 **survey_results_public.csv** - data used for analysis
 
 ## RESULTS
+The entire [blog](https://abhignya.medium.com/indian-developers-in-2020-8b9ad0d7bde9) is here for the results. 
+
 1. JavaScript and HTML/CSS was the most used by Indian Developers in 2020. Python is the programming language the developers wish to work next year.
 
 2. Developers use Scala and Rust have the highest paid salary. The rising demand for the Scala and Rust programming language among the employers. 
